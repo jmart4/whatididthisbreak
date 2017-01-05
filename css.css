@@ -1,0 +1,36 @@
+span {
+    color: blue;
+}
+
+h1 {
+
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+ 
+    
+}
+
+ul {
+    color: white;
+
+}
+
+img {
+    margin: auto;
+    display: block;
+   
+}
+
+li {
+    text-align: center;
+}
+
+button {
+    margin: auto;
+    display:block;
+}
